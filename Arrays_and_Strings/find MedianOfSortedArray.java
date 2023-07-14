@@ -1,3 +1,5 @@
+// Time Complexity is worse tho...O(nlogn)
+// Try using tree method 
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] nums3 = new int[nums1.length  + nums2.length];
