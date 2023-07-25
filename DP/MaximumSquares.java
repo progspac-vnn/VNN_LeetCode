@@ -1,5 +1,5 @@
-Bottom Up Approach(Iterative)
-
+//Bottom Up Approach(Iterative)
+// do this again
 class Solution {
     public int maximalSquare(char[][] matrix) {
         if(matrix.length==0) return 0;
